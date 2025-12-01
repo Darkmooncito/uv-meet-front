@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 import "../styles/profile.sass";
 
 const Perfil = () => {

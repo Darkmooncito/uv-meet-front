@@ -1,4 +1,4 @@
-import React from "react";
+
 import "../styles/editprofile.sass";
 
 const EditarPerfil = () => {
